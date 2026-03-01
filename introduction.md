@@ -1,4 +1,4 @@
-1. Introduction
+#1. Introduction
 
 Pengembangan aplikasi mobile saat ini telah bertransformasi dari sekadar proses teknis penulisan sebuah kode menjadi keputusan yang strategis yang memengaruhi keberlanjutan produk, skalabilitas sistem, serta daya saing perusahaan dalam jangka panjang. Mobile modern saat ini didominasi oleh dua platform utama, yaitu Android dan iOS. Masing-masing memiliki arsitektur sistem, mekanisme lifecycle aplikasi, kebijakan distribusi, serta manajemen resource yang berbeda. Perbedaan ini menciptakan tantangan tersendiri dalam menentukan strategi pengembangan. Secara umum, terdapat dua pendekatan utama dalam membangun aplikasi mobile: pengembangan native dan pengembangan cross-platform menggunakan framework seperti Flutter atau React Native. Namun, keputusan memilih pendekatan tersebut tidak sesederhana memilih teknologi yang paling populer atau paling cepat digunakan. Lingkungan mobile memiliki karakteristik yang kompleks dan penuh keterbatasan, seperti:
 - Keterbatasan baterai dan memori perangkat
